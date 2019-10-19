@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
                 try {
 
                     //Enter script URL Here
-                    URL url = new URL("https://script.google.com/macros/s/AKfycbw62Ojy5Mt4Txt9sWisdJGfjd4ZY9FiW5kvES6EvGoRuSohSEG-/exec");
+                    URL url = new URL("Your Gsheet link here");
 
                     JSONObject postDataParams = new JSONObject();
 
